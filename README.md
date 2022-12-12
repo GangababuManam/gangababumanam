@@ -1,6 +1,6 @@
 ### Hi there 👋 , 
   
-  I'm Gangababu Manam
+  ## I'm Gangababu Manam
 
 About Me:
 
