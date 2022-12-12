@@ -1,8 +1,6 @@
 ### Hi there 👋 , 
-  
   ## I'm Gangababu Manam
-
-# About Me:
+  # About Me:
 
 🔭 I am currently working on  Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing
 
