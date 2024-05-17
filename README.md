@@ -1,5 +1,6 @@
-### Hi there 👋 , 
-  ### I'm Gangababu Manam
+<h1 align="center">Hi 👋, I'm Manam Gangababul Naidu</h1>
+<h3 align="center">A passionate Generative AI Engineer from India</h3>
+
   #### About Me:
 
 🔭 I am currently working on  Generative AI,Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing
